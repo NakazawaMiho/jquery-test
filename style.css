@@ -12,3 +12,7 @@
 body {
   height: 1500px
 }
+
+#sister{
+  display: none;
+}
